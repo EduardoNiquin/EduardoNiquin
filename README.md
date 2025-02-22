@@ -1,9 +1,6 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Eduardo Niquin
 ======================================================================================================================================
 
-Desarollador Web
-----------------
-
 Desarrollador Senior con amplia experiencia en ecommerce, especializado en proyectos complejos en plataformas como Magento y WordPress. Destacado por implementar estrategias de desarrollo eficientes, fomentar la colaboración en equipo y garantizar la entrega de soluciones innovadoras alineadas a objetivos empresariales
 
 *   🌍  Me encuentro en Santiago, Chile
